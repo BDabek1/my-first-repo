@@ -2,3 +2,8 @@
 
 ECG (electrodiagram) measures the electrical activit of the heart.
 It is one of the most common diagnostic tools in cardiology.
+
+## Key Components
+- P wave: atrial depolarization
+- QRS complex: ventricular depolarization
+- T wave: ventricular repolarization
