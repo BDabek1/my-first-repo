@@ -1,3 +1,5 @@
 # My First Repository
 
 This is a practice project for a course.
+## Topics
+- ECG signal processing
